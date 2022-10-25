@@ -86,7 +86,7 @@ export default function ProjectPage() {
     }
 
     useEffect(() => {
-        timeout(2000)
+        timeout(2500)
             .then(result => {
                 updateloading(false)
             })
