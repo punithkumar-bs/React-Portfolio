@@ -10,7 +10,6 @@ const About = () => {
             <Container>
                 <Row className="mt-5">
                     <Col md={5}>
-                        {/* <GreetingLottie animationPath="/lottie/coding.json" /> */}
                         <Slide left>
                             <lottie-player src="https://assets5.lottiefiles.com/packages/lf20_iv4dsx3q.json"
                                            background="transparent" speed="1" style={{width: '100%', height: '90%'}}
@@ -25,7 +24,7 @@ const About = () => {
                                 <br/>
                                 <br/>I'm a crazy full stack developer who wants to explore every tech stack 👨‍💻
                                 <br/>
-                                <br/>I am fluent wiht Technologies like
+                                <br/>I am fluent with Technologies like
                                 <i>
                                     <b className="purple"> Java, Javascript, Spring, GraphQL and AWS </b>
                                 </i>
