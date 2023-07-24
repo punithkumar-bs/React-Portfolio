@@ -19,14 +19,14 @@ const About = () => {
                     <Col md={7}>
                         <Slide right>
                             <p className="home-about-body">
-                                👋 I'm a passionate Software Engineer with more than 5 years of professional experience
+                                👋 I'm a passionate Engineer with close to 6 years of professional experience
                                 based in Ireland with a strong focus on Full-Stack Development
                                 <br/>
                                 <br/>I'm a crazy full stack developer who wants to explore every tech stack 👨‍💻
                                 <br/>
                                 <br/>I am fluent with Technologies like
                                 <i>
-                                    <b className="purple"> Java, Javascript, Spring, GraphQL and AWS </b>
+                                    <b className="purple"> Java, Javascript, Spring, GraphQL, Kubernetes and AWS </b>
                                 </i>
                                 <br/>
                                 <br/>

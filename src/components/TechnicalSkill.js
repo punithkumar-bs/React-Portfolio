@@ -63,11 +63,22 @@ export default function TechnicalSkill() {
                         <h1 style={{ fontSize: '100px',color:'#ff0173',fontWeight:700 }}>82%</h1>
                         <div style={{ paddingLeft: '50px',paddingRight:'50px'}}>
                         <div class="progress">
-                            <div role={"progressbar"} id={"org"} aria-valuenow={"88"} aria-valuemin={"0"} aria-valuemax={"100"} style={{width: '82%'}}>
+                            <div role={"progressbar"} id={"org"} aria-valuenow={"82"} aria-valuemin={"0"} aria-valuemax={"100"} style={{width: '82%'}}>
                                 
                             </div>
                         </div>
-                        <h2 style={{color:'#ff0173',fontSize:'25px',marginTop:'13px',fontWeight:700 }}>Docker</h2>
+                        <h2 style={{color:'#ff0173',fontSize:'25px',marginTop:'13px',fontWeight:700 }}>Docker/Kubernetes</h2>
+                        </div>
+                    </Col>
+                    <Col md={4}>
+                        <h1 style={{ fontSize: '100px',color:'#929747',fontWeight:700 }}>88%</h1>
+                        <div style={{ paddingLeft: '50px',paddingRight:'50px'}}>
+                        <div class="progress">
+                            <div role={"progressbar"} id={"org"} aria-valuenow={"88"} aria-valuemin={"0"} aria-valuemax={"100"} style={{width: '88%'}}>
+
+                            </div>
+                        </div>
+                        <h2 style={{color:'#ff0173',fontSize:'25px',marginTop:'13px',fontWeight:700 }}>Kafka</h2>
                         </div>
                     </Col>
                     <Col md={4}>
