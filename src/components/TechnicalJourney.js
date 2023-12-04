@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom';
 import StarIcon from '@mui/icons-material/Star';
 import { DiHtml5, DiPython, DiReact, DiJava, DiAws, DiDocker } from 'react-icons/di';
 import Flip from 'react-reveal/Flip';
-import { SiCplusplus, SiSpringboot } from 'react-icons/si';
+import { SiCplusplus, SiSpringboot, SiKubernetes, SiApachekafka } from 'react-icons/si';
 
 function TechnicalJourney() {
     return (
@@ -28,7 +28,7 @@ function TechnicalJourney() {
                 iconStyle={{ background: 'rgb(78 22 112)', color: '#fbd9ad' }}
                 icon={<DiJava />}
             >
-                <h3 className="vertical-timeline-element-title">Java</h3>
+                <h3 className="vertical-timeline-element-title">JAVA, SCALA & GROOVY</h3>
                 
             </VerticalTimelineElement>
             <VerticalTimelineElement
@@ -108,7 +108,28 @@ function TechnicalJourney() {
                 <h3 className="vertical-timeline-element-title">AWS</h3>
 
             </VerticalTimelineElement>
+             <VerticalTimelineElement
+                className="vertical-timeline-element--work"
+                contentStyle={{ background: 'rgb(78 22 112)', color: '#fbd9ad' }}
+                contentArrowStyle={{ borderRight: '7px solid  rgb(78 22 112)' }}
+                date=""
+                iconStyle={{ background: 'rgb(78 22 112)', color: '#fbd9ad' }}
+                icon={<SiKubernetes />}
+             >
+                <h3 className="vertical-timeline-element-title">KUBERNETES</h3>
+            </VerticalTimelineElement>
 
+            <VerticalTimelineElement
+                className="vertical-timeline-element--work"
+                contentStyle={{ background: 'rgb(78 22 112)', color: '#fbd9ad' }}
+                contentArrowStyle={{ borderRight: '7px solid  rgb(78 22 112)' }}
+                date=""
+                iconStyle={{ background: 'rgb(78 22 112)', color: '#fbd9ad' }}
+                icon={<SiApachekafka />}
+            >
+                <h3 className="vertical-timeline-element-title">KAFKA</h3>
+
+            </VerticalTimelineElement>
 
             <VerticalTimelineElement
                 iconStyle={{ background: '#fbd9ad', color: 'rgb(78 22 112)' }}

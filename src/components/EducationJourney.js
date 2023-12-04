@@ -41,7 +41,7 @@ function EducationJourney() {
                 iconStyle={{ background: 'rgb(78 22 112)', color: '#fbd9ad' }}
                 icon={<SchoolIcon />}
             >
-                <h3 className="vertical-timeline-element-title">INFORMAION SCIENCE AND ENGINEERING</h3>
+                <h3 className="vertical-timeline-element-title">INFORMATION SCIENCE AND ENGINEERING</h3>
                 <h4 className="vertical-timeline-element-subtitle mt-2">Visvesvaraya Technological University - India</h4>
                 <p>
                     Bachelor of Engineering Degree
