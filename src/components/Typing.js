@@ -8,7 +8,7 @@ function Typing() {
                 strings: [
                     "Technical Lead Engineer",
                     "Lead Full Stack Developer",
-                    "Snr. Software Developer",
+                    "Lead Software Engineer",
                 ],
                 autoStart: true,
                 loop: true,
