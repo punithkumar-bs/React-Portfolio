@@ -19,8 +19,8 @@ const About = () => {
                     <Col md={7}>
                         <Slide right>
                             <p className="home-about-body">
-                                👋 I'm a passionate Lead Software Engineer with more than 7 years of professional experience
-                                based in Ireland with a strong focus on Full-Stack Development
+                                👋 I’m a passionate Technical Lead Software Engineer 🚀 with 8+ years of experience building 
+                                secure, scalable, cloud-native systems across the FinTech, Healthcare, and Automotive industries.
                                 <br/>
                                 <br/>I'm a crazy full stack developer who wants to explore every tech stack 👨‍💻
                                 <br/>
